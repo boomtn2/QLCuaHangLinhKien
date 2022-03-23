@@ -1,0 +1,11 @@
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\bin\Debug\CuaHangLinhKienCode.exe.config
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\bin\Debug\CuaHangLinhKienCode.exe
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\bin\Debug\CuaHangLinhKienCode.pdb
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.csproj.AssemblyReference.cache
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.csproj.SuggestedBindingRedirects.cache
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.Form1.resources
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.Properties.Resources.resources
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.csproj.GenerateResource.cache
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.csproj.CoreCompileInputs.cache
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.exe
+E:\soure_code\C#\CuaHangLinhKienCode\CuaHangLinhKienCode\obj\Debug\CuaHangLinhKienCode.pdb
